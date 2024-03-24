@@ -1,5 +1,5 @@
 # Article-Recommendation-System
-This is a github repository for recommending BBC news articles.
+This is a github repository for recommending BBC news articles, and here's the link to the Medium article I wrote about it: https://medium.com/@rithvikdonnipadu/article-recommendation-system-cc992e456de5
 
 Here's a brief of what the code looks like:
 
